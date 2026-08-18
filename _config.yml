@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Cuifeng Gao"
-description              : &description "PhD student at USTC"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Postdoc at Lingnan University"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://gcf3711.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -27,10 +27,10 @@ author:
   name             : "Cuifeng Gao"
   pronouns         : # example: "she/her"  
   bio              : "In each step, joy resides."
-  location         : "Suzhou China"
-  employer         : "USTC"
+  location         : "Hong Kong"
+  employer         : "Lingnan University"
   uri              : # URL
-  email            : "gcf20225162@mail.ustc.edu.cn" 
+  email            : "cuifenggao@ln.edu.hk" 
 
   # Academic websites
   academia         : # URL
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0003-0672-1485"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://dblp.org/pid/378/3506.html"
+  dblp             : "https://dblp.org/pid/378/3506.html"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
