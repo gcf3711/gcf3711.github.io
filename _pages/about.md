@@ -30,6 +30,13 @@ Publications
 <ul style="max-width: 100%">
 
 <li>
+<span style="color: maroon">Evaluating Agent Frameworks for Code-centric Software Engineering: A Comprehensive Empirical Study</span> [<a href="files/evalAgentFramework.pdf"><b>PDF</b></a>]
+<br>
+Zhuowen Yin*, <b>Cuifeng Gao</b>*, Chunsong Fan, Wenzhang Yang<sup>†</sup>, Yinxing Xue<sup>†</sup>.
+<em>JSS 2026</em>
+</li>
+
+<li>
 <span style="color: maroon">Are Static Analysis Tools Still Working during the Evolution of Smart Contracts? A Comprehensive Empirical Study</span> [<a href="https://dl.acm.org/doi/10.1145/3779429"><b>DOI</b></a>] [<a href="files/smart_contract_evolution.pdf"><b>PDF</b></a>]
 <br>
 <b>Cuifeng Gao</b>, Ao Chen, Chengze Wu, Wenzhang Yang, Jiaming Ye, Yinxing Xue<sup>†</sup>.
